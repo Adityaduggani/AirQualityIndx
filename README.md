@@ -1,5 +1,5 @@
-# AirQualityIndx
-This project is a Streamlit-based web application for analyzing and forecasting Air Quality Index (AQI) values. It allows users to upload their own air quality datasets (CSV format) and instantly visualize AQI levels over time. The app also applies a simple moving average model to generate forecasts, helping users understand pollution trends. 
+# AirQualityIndex
+
 ## 📌 Project Overview
 This is a **Streamlit-based web application** for analyzing and forecasting **Air Quality Index (AQI)** values.  
 It allows users to upload their own air quality datasets in CSV format and instantly visualize AQI trends over time.  
@@ -36,4 +36,11 @@ datetime,PM2.5
 2025-09-30 01:00:00,82
 2025-09-30 02:00:00,79
 2025-09-30 03:00:00,85
+.
 
+📌 Future Improvements
+🔮 Use advanced forecasting (ARIMA, LSTM, Prophet)
+🌍 Add real-time AQI API integration
+📱 Deploy on cloud platforms (Heroku/Streamlit Cloud)
+👨‍💻 Author
+Aditya Duggani
