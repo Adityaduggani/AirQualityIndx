@@ -37,10 +37,3 @@ datetime,PM2.5
 2025-09-30 02:00:00,79
 2025-09-30 03:00:00,85
 .
----
-###📌 Future Improvements
-🔮 Use advanced forecasting (ARIMA, LSTM, Prophet)
-🌍 Add real-time AQI API integration
-📱 Deploy on cloud platforms (Heroku/Streamlit Cloud)
-👨‍💻 Author
-Aditya Duggani
